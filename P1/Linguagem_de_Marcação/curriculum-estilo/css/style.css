@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    color: #2f4f4f;
+}
+
+h1 {
+    text-align: center;
+    color: #00008B;
+    background-color: white;
+}
+
+h1 a {
+    color: white;
+}
+
+h1 a:hover {
+    color: #00008B;
+}
+
+h2 {
+    background-color: #87CEFA;
+    color: #00008B;
+}
+
+h2 a {
+    color: #87CEFA;
+}
+
+h2:hover a {
+    color: #00008B;
+}
+
+a {
+    color: #191996;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer p {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(47, 79, 79);
+}
+
+#footer {
+    font-weight: bold;
+    color: rgb(47, 79, 79);
+}
